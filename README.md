@@ -1,6 +1,7 @@
-
 # Dockeeper
 --------------
+
+Dockeeper is a realtime markdown editor which you can see the result while you're editing
 
 personal markdown editor + storage (folder)
 
@@ -24,4 +25,5 @@ personal markdown editor + storage (folder)
 * <http://docs.mongodb.org/ecosystem/tutorial/getting-started-with-ruby-on-rails-3/>
 * <https://github.com/pdfkit/pdfkit>
 * <https://github.com/seyhunak/twitter-bootstrap-rails>
+
 
